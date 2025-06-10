@@ -21,7 +21,7 @@ const products = [
     name: "Ves-Vista Sweater",
     price: "$95",
     description: "Premium cotton-blend sweater with minimalist Ves-Vista logo.",
-    image: "https://images.unsplash.com/photo-1618354691301-79840dd29d9e?auto=format&fit=crop&w=600&q=80"
+    image: "https://coco-net.org/wp-content/uploads/2016/06/Top-Sunglasses-on-the-Beach-with-Pictures-of-Sunglass-Style-New-in-Design.jpg"
   }
 ];
 
